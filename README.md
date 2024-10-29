@@ -1,5 +1,3 @@
-Here's a sample `README.md` for your project that explains its purpose, setup, and usage instructions:
-
 ```markdown
 # Chronic Data Logger with Brightness Adjustment
 
@@ -80,16 +78,7 @@ You can adjust the following parameters in the script:
 - Verify that the PhyPhox server is active and reachable using a web browser.
 - Check for firewall settings that might block the connection.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - PhyPhox for providing a platform for data collection.
-- Pillow and pandas for data handling and image processing capabilities.
 ```
-
-### Additional Notes
-- Make sure to replace placeholders like the `LICENSE` section with actual information if applicable.
-- Feel free to customize any part of the README to better fit your project or to include any additional information you think is relevant!
