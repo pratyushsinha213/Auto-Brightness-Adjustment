@@ -1,4 +1,3 @@
-```markdown
 # Chronic Data Logger with Brightness Adjustment
 
 This project implements a chronic data logger that collects light intensity data (Lux) from a PhyPhox application over Wi-Fi. The collected data is then used to adjust the brightness of an image based on environmental conditions. 
