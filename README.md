@@ -80,4 +80,3 @@ You can adjust the following parameters in the script:
 ## Acknowledgments
 
 - PhyPhox for providing a platform for data collection.
-```
